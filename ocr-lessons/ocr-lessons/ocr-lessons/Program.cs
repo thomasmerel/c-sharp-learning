@@ -6,7 +6,17 @@ namespace ocrlessons
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			string a = "oijedf";
+			string testResult = test (a);
+			Console.WriteLine (testResult);
+		}
+		static string test(string a)
+		{
+			if (a == string.Empty) {
+				return "Empty String";
+			} else {
+				return a;
+			}
 		}
 	}
 }

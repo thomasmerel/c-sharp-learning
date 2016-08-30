@@ -1,0 +1,5 @@
+/home/vulture/Documents/gitProject/c-sharp-learning/ocr-lessons/ocr-lessons/ocr-lessons/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vulture/Documents/gitProject/c-sharp-learning/ocr-lessons/ocr-lessons/ocr-lessons/bin/Debug/ocr-lessons.exe.mdb
+/home/vulture/Documents/gitProject/c-sharp-learning/ocr-lessons/ocr-lessons/ocr-lessons/bin/Debug/ocr-lessons.exe
+/home/vulture/Documents/gitProject/c-sharp-learning/ocr-lessons/ocr-lessons/ocr-lessons/obj/x86/Debug/ocr-lessons.exe
+/home/vulture/Documents/gitProject/c-sharp-learning/ocr-lessons/ocr-lessons/ocr-lessons/obj/x86/Debug/ocr-lessons.exe.mdb
